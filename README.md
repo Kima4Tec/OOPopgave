@@ -1,4 +1,4 @@
-En lille OOP opgave, som måske kan udfordre lidt med hensyn til OOP.:
+En lille OOP opgave, som måske kan udfordre lidt med hensyn til OOP:
 
 Udskriv 4 personer, som tager hver deres transportmiddel til TEC, hvor I bruger fields, properties, constructors, enums. I må ikke bruge static andet i Main(). En udskrevet liste kan se så ud:
 
