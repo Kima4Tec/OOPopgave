@@ -6,7 +6,7 @@ namespace TestOOP
     {
         static void Main(string[] args)
         {
-            var kimsBil = new Bil
+            var hansBil = new Bil
             {
                 Navn = "Seat",
                 Model = "Toledo",
@@ -27,7 +27,7 @@ namespace TestOOP
 
             List<Person> personListe = new List<Person>
             {
-                new Person("Kim", Køn.mand, Transportmidler.Bil, kimsBil, Farver.Champagne),
+                new Person("Hans", Køn.mand, Transportmidler.Bil, hansBil, Farver.Champagne),
                 new Person("Peter", Køn.mand, Transportmidler.Motorcykel, null, petersMotorcykel),
                 new Person("Mette", Køn.kvinde, Transportmidler.BusOgTog),
                 new Person("Eva", Køn.kvinde, Transportmidler.Cykel,evasCykel,null)
